@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/**/*.js": {
+      "runtime": "nodejs24.x"
+    }
+  },
+  "crons": [],
+  "installCommand": "npm install"
+}
